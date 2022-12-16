@@ -7,7 +7,7 @@
  ### 🚧 __Project under Construction...__ 🚧
 
 <hr>
-<br>
+
 
 <details style="background-color:white; color:black">
 <summary> <h2>Project phases:</h2>
