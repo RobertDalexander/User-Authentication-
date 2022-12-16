@@ -10,7 +10,7 @@
 <br>
 
 <details style="background-color:white; color:black">
-<summary>Project phases:
+<summary> <h2>Project phases:</h2>
 
 </summary> 
 <br>
@@ -34,10 +34,10 @@
 
 </details>
 
-<br>
+
 <details style="background-color:white; color:black">
 <summary>
-About the project:
+<h2>About the project:</h2>
 </summary>
 <br>
 <p style="text-align:justify; color:white; background:black">
@@ -49,6 +49,6 @@ The project will show a user registration and authentication form. The custom st
 
 
 <br>
-<br>
+
 
 <p style="background:white; width:100%px; height:35px; border-radius:8px"></p>
