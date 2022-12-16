@@ -19,14 +19,16 @@
 
 - [x] Choice of languages for development.
 
-    - HyperText Markup Language (HTML5).
-    - Cascading Style Sheets (CSS3).
+    - Linguagem de Marcação de HiperTexto(HTML5).<br>
+    ![HTML5]()
+    - Cascading Style Sheets (CSS3).<br>
+    ![CSS3]()
 
 - [ ] Definition of the levels of the form.
 
-- [ ] Layout Prototyping.
+- [x] Layout Prototyping.
 
-    - ![Prototipo]()
+    - ![Prototipo](https://github.com/RobertDalexander/Customized-form/blob/main/Form.png)
 
 - [ ] Project finalization.
 
