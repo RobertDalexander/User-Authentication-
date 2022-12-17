@@ -20,9 +20,10 @@
 - [x] Choice of languages for development.
 
     - Linguagem de Marcação de HiperTexto(HTML5).<br>
-    ![HTML5](https://github.com/RobertDalexander/Customized-form/blob/main/2ab13ded-c529-4461-b518-8c28fb6243f6.png)
+    <img alt="HTML5" src="https://github.com/RobertDalexander/Customized-form/blob/main/2ab13ded-c529-4461-b518-8c28fb6243f6.png" width="180px"/>
+    
     - Cascading Style Sheets (CSS3).<br>
-    ![CSS3](https://github.com/RobertDalexander/Customized-form/blob/main/bf63614c-77da-4505-bdcf-6dfd614b9f87.png)
+    <img alt="CSS3" src="https://github.com/RobertDalexander/Customized-form/blob/main/bf63614c-77da-4505-bdcf-6dfd614b9f87.png" width="180px"/>
 
 - [ ] Definition of the levels of the form.
 
