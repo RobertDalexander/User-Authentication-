@@ -29,7 +29,8 @@
 
 - [x] Layout Prototyping.
 
-    - ![Prototipo](https://github.com/RobertDalexander/Customized-form/blob/main/Form.png)
+    - Prototipo.<br>
+     <img alt="Prototipo" src="https://github.com/RobertDalexander/Customized-form/blob/main/Form.png" width="300px"/>
 
 - [ ] Project finalization.
 
