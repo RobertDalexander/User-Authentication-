@@ -1,4 +1,4 @@
-<p style="background:white; width:100%px; height:35px; border-radius:8px"></p>
+<img alt="barra" src=""/>
 
 <br>
 
