@@ -2,12 +2,12 @@
 
  <h1 style="text-align:center;"> 🚧 In Construction...🚧 </h1><br>
  
- # Authentication form:
+ 
 
 
 <details style="background-color:white; color:black">
 <summary> <h3>Project phases:</h3>
-
+<hr>
 </summary> 
 
 - [x] Information organization.
@@ -29,16 +29,16 @@
     - Prototipo.<br>
      <img alt="Prototipo" src="https://github.com/RobertDalexander/Customized-form/blob/main/Form.png" width="300px"/>
 
-- [ ] Project finalization.
+- [ ] Project finalization.<hr>
+</details>  
 
-</details>
-
-<hr>
 <details style="background-color:white; color:black">
 <summary>
 <h3>About the project:</h3>
 </summary>
 <br>
+<h3>Authentication form:</h3>
+<hr>
 <p style="text-align:justify; color:white; background:black">
 The project will show a user registration and authentication form. The custom style will show a simple adaptive layout, when the window increases in size or decreases in size, but not yet a  layout responsive.
 </p>
