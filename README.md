@@ -1,5 +1,4 @@
-<img alt="barra" src="https://github.com/RobertDalexander/Customized-form/blob/RobertDalexander-patch-1/5ae052ee-f39f-4640-9cd1-6149778447be.png" height="40%" width="100%"/>
-
+<img alt="barra" src="https://github.com/RobertDalexander/Customized-form/blob/RobertDalexander-patch-1/5ae052ee-f39f-4640-9cd1-6149778447be.png" height="100px%" width="100%"/>
  ### 🚧 __Project under Construction...__ 🚧
 
 <hr>
@@ -48,6 +47,6 @@ The project will show a user registration and authentication form. The custom st
 
 <br>
 
- <img alt="barra" src="" height="300px" width="100%"/>
+
 
 
