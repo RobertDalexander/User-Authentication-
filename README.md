@@ -1,8 +1,4 @@
-<img alt="barra" src="https://github.com/RobertDalexander/Customized-form/blob/RobertDalexander-patch-1/d987834e-4c18-4ac0-9d6e-48d5cdf8b9e0.jpg" height="90px" width="100%" border-radius="8px"/>
-
-<br>
-
-# **Custumazed Form:**
+<img alt="barra" src="https://github.com/RobertDalexander/Customized-form/blob/RobertDalexander-patch-1/BarraTop.png " height="300px" width="100%"/>
 
  ### 🚧 __Project under Construction...__ 🚧
 
@@ -53,4 +49,4 @@ The project will show a user registration and authentication form. The custom st
 <br>
 
 
-<p style="background:white; width:100%px; height:35px; border-radius:8px"></p>
+
