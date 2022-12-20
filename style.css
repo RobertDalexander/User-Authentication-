@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(233, 243, 243);
+}
+
+#principal{
+    font-size: 0.8em;
+    width: 50%;
+    min-width: 240px;
+    max-width: 520px;
+    margin: 15px auto;
+    padding: 3%;
+    text-transform: uppercase;
+    background-color: rgb(234, 243, 240);
+}
+
+h1{
+    text-align: center;
+    text-shadow: 4px 3px 5px rgb(147, 147, 236);
+    background-color: rgba(191, 223, 212, 0.247);
+    padding: 2%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 5px 3px 9px blue;
+}
+
+fieldset{
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    box-shadow: 4px 3px 9px blue;
+}
+
+legend{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+label{
