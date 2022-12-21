@@ -43,7 +43,7 @@ legend{
     text-transform: uppercase;
 }
 
-.botao{
+input.botao{
    background:blue;
    color:white;
 }
