@@ -43,4 +43,7 @@ legend{
     text-transform: uppercase;
 }
 
-label{
+.submit{
+   background:blue;
+   color:white;
+}
