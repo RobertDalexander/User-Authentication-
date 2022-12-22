@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-size: 1em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to left, rgb(77, 2, 80),rgb(126, 9, 173),rgb(224, 77, 224),rgb(235, 135, 230));
+
+}
+
+#principal{
+    width: 60%;
+    min-width: 400px;
+    max-width: 520px;
+    margin: 6% auto;
+    padding: 3%;
+    text-transform: capitalize;
+    border-radius: 15px;
+   
+}
+
+h2{
+    text-align: center;
+    text-shadow: 4px 3px 5px rgb(0, 0, 10);
+    background-color: rgba(191, 223, 212, 0.247);
+    padding: 2%;
+    border-radius: 8px;
+    margin-bottom: 35px;
+    box-shadow: 5px 3px 9px rgb(0, 0, 3);
+    color: white;
+}
+
+h2:hover{
+    text-transform: uppercase;
+    font-size: 1.9em;
+    transition: all 1s;
+}
+
+fieldset{
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    box-shadow: 4px 3px 9px rgb(0, 0, 5);
+ 
+}
+
+legend{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 1.5em;
+    text-shadow: 8px 4px 5px rgb(0, 0, 8);
+    color: white;
+
+}
+
+legend:hover{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+label{
+    cursor: pointer;
+    padding: 1%;
+}
+
+
+input{
+    padding: 1%;
+    border:none;
+    background: none;
+}
+
+.submit input{
+    background-image: linear-gradient(to right,rgb(5, 5, 87), blue, rgb(70, 70, 231));
+    border-radius: 5px;
+    color: white;
+    padding: 2%;
+    margin-top: 3%;
+    box-shadow: 5px 2px 5px rgb(0, 0, 12);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.submit1:hover{
+    background: rgb(23, 23, 87);
+}
+.nome{
+    margin: 15px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+}
+
+.nome:hover{
+    font-size: 1em;
+    text-shadow: 8px 4px 6px rgb(0, 0, 10);
+    text-transform: uppercase;
+}
+
+.nome1:hover{
+    box-shadow: 8px 4px 6px rgb(0, 0, 8);
+}
+
+.email{
+    margin: 15px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+}
+
+.email:hover{
+    font-size: 1em;
+    text-shadow: 8px 4px 6px rgb(0, 0, 5);
+    text-transform: uppercase;
+
+}
+
+.email1:hover{
+    box-shadow: 8px 4px 6px rgb(0, 0, 17);
+}
+
+.telefone{
+    margin: 15px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+}
+
+.telefone:hover{
+    font-size: 1em;
+    text-shadow: 8px 4px 6px rgb(0, 0, 24);
+    text-transform: uppercase;
+}
+
+.telefone1:hover{
+    box-shadow: 8px 4px 6px rgb(0, 0, 14);
+}
+
+.senha{
+    margin: 15px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+}
+
+.senha:hover{
+    font-size: 1em;
+    text-shadow: 8px 4px 6px rgb(0, 0, 10);
+    text-transform: uppercase;
+}
+
+.senha1:hover{
+    box-shadow: 8px 4px 6px rgb(0, 0, 10);
+}
+
+
+.submit{
+    margin: 15px;
+    font-size: 0.8em;
+    font-weight: bold; 
+}
+
+#icones{
+    text-align: center;
+    margin: 50px;
+}
+
+.icon1{
+    margin: 15px;
+    width: 85px;
+    cursor: pointer;
+}
+
+.icon1:hover{
+    width: 120px;
+    transition: all 1s;
+}
+
+.icon2{
+    margin: 15px;
+    width: 85px;
+    cursor: pointer;
+}
+
+.icon2:hover{
+    width: 120px;
+    transition: all 1s;
+}
+
+.icon3{
+    margin: 15px;
+    width: 85px;
+    cursor: pointer;
+}
+
+.icon3:hover{
+    width: 120px;
+    transition: all 1s;
+}
+
+footer{
+    text-align: center;
+    line-height: 50px;
+    color: rgba(255, 255, 255, 0.411);
+    text-transform: capitalize;
+    background-color: rgba(240, 248, 255, 0.151);
+    text-shadow: 8px 4px 5px black;
+}
