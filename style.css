@@ -47,3 +47,7 @@ input.botao{
    background:blue;
    color:white;
 }
+
+input{
+    margin:15px;
+}
