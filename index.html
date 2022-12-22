@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html lang="pt-br">
 
     <head>
@@ -9,53 +11,54 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 
-    <body>
+     <body>
         <div id="principal">
 
             <div id="cabecalho">
                 <h1>Autenticação</h1>
             </div>
+             <form>
+                <div id="formulario">
 
-            <div id="formulario">
+                    <fieldset>
+                        <legend>Cadastre-se</legend>
+                        <div class="nome">
+                            <label for="nome">
+                                Nome:
+                            </label>
+                            <input type="text" name="nome" id="nome" placeholder="Digete seu nome">
+                        </div>
 
-                <fieldset>
-                    <legend>Cadastre-se</legend>
-                    <div>
-                        <label for="nome">
-                            Nome:
-                        </label>
-                        <input type="text" name="nome" id="nome" placeholder="Digete seu nome"><br>
-                    </div>
+                        <div class="email">
+                            <label for="email">E-mail:</label>
+                            <input type="text" name="email" id="email" placeholder="Digite o seu e-mail ">
+                        </div>
 
-                    <div>
-                        <label for="email">E-mail:</label>
-                        <input type="text" name="email" id="email" placeholder="Digite o seu e-mail "> <br>
-                    </div>
+                        <div class="telefone">
+                            <label for="telefone">
+                                Telefone:
+                            </label>
+                            <input type="text" name="telefone" id="telefone" placeholder="Digite o seu telefone ">
+                        </div>
 
-                    <div>
-                        <label for="telefone">
-                            Telefone:
-                        </label>
-                        <input type="text" name="telefone" id="telefone" placeholder="Digite o seu telefone "> <br>
-                    </div>
+                        <div class="senha">
+                            <label for="senha">
+                                Senha:
+                            </label>
+                            <input type="password" name="senha" id="senha" placeholder="Digite a sua senha">
+                        </div>
 
-                    <div>
-                        <label for="senha">
-                            Senha:
-                        </label>
-                        <input type="password" name="senha" id="senha" placeholder="Digite a sua senha"> <br>
-                    </div>
+                        <div class="submit">
+                            <!--<button type="submit" value="Cadastrar" >Cadastrar</button>-->
+                            <input class="submit1" type="submit"  value="Cadastrar">
+                        </div>
+                    
+                    </fieldset>
 
-                    <div class="submit">
-                        <!--<button type="submit" value="Cadastrar" >Cadastrar</button>-->
-                        <input class="botao" type="submit"  value="Cadastrar">
-                    </div>
-                
-                </fieldset>
-
-            </div>
-
+                </div>
+            </form>
         </div>
     </body>
 
 </html>
+   
