@@ -3,7 +3,7 @@
  <h1 style="text-align:center;"> Authentication Form!! </h1><br>
  
   - Projeto completo. <br>
-   <a href="https://robertdalexander.github.io/User-Authentication-/"> <img alt="projeto" src="Authentication-User.png" width="350px"></a> 
+   <a href="https://robertdalexander.github.io/User-Authentication-/"> <img alt="projeto" src="Authentication-User.png" width="250px"></a> 
  
 
 
